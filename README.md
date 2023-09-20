@@ -1,5 +1,5 @@
 # userkit2
-A refactored version of the UserKit suite for FreeDOS.
+A redesigned version of the UserKit suite for FreeDOS.
 ## Installation
 The UserKit scripts must be installed into a single directory, then that directory must be added to the PATH:
 
