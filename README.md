@@ -7,8 +7,7 @@ mkdir c:\userkit
 copy .\*.bat c:\userkit\
 set path=%path%;c:\userkit
 
-##Usage
-
+## Usage
 After installation, you must add at least one user account:
 
 adduser user
