@@ -12,6 +12,6 @@ echo User %1 created.
 goto End
 
 :MkAdmin
-echo prompt $e[1;31m$l%1@$p$g$e[0m >> c:\users\%1\userexec.bat
+echo prompt $e[31m$l%1@$p$g$e[0m >> c:\users\%1\userexec.bat
 echo Admin account created.
 :End
