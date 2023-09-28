@@ -4,7 +4,9 @@ A redesigned version of the UserKit suite for FreeDOS.
 The UserKit scripts must be installed into a single directory, then that directory must be added to the PATH:
 
 mkdir c:\userkit
+
 copy .\*.bat c:\userkit\
+
 set path=%path%;c:\userkit
 
 ## Usage
