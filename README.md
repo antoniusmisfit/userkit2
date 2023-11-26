@@ -16,7 +16,7 @@ adduser user
 
 After the account is created, you may login as the user:
 
-login
+login user
 
 You may log out of the current user session and return to "classic DOS":
 
