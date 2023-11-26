@@ -1,2 +1,2 @@
 @echo off
-dir /l/b /a:s c:\users
+dir /l /b c:\users
