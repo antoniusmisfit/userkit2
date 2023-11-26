@@ -11,3 +11,5 @@ goto End
 echo Password does not match. Try again.
 goto End
 :End
+set pwrd=
+set pwrd_s=
