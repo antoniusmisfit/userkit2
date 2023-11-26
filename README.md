@@ -29,5 +29,5 @@ home
 Note that using "home" while not logged in as a user results changing directory to c:\.
 
 ### Todo
-* Implement account passwords.
-* Expand the admin account implementation to do more than just have a red command prompt.
+* Implement account passwords(Done, but needs security).
+* Implement a login greeter for bootup.
