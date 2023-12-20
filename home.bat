@@ -1,7 +1,9 @@
 @echo off
 if "%user%"=="" goto NoUser
-cd %home%
 goto End
 
 :NoUser
-cd c:\
+set home=c:\
+goto End
+:End
+cd %home%
